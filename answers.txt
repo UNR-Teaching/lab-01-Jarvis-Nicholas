@@ -1,0 +1,14 @@
+/*
+Author: Nicholas Jarvis
+Purpose: Lab 01
+Date: 5/22/2022
+*/
+
+
+Answers:
+
+After the "ls > newfile.txt" command, the file "newfile.txt" was made within the directory. The ">" combined with the "ls" command appeared to create a file within the current directory that saved the names of all the contents of the directory into itself.
+
+After running "git status", it is seen that "newfile.txt" was added as a new file and that the change was to be committed. 
+
+After running "git diff", the terminal displays the contents of "newfile.txt". Notably, it is seen that the line "This is my file listing" is highlighted to indicate that it was a new change to the file.
